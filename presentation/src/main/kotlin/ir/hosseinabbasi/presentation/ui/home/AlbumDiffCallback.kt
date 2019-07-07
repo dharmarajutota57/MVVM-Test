@@ -4,7 +4,7 @@ import androidx.recyclerview.widget.DiffUtil
 import com.android.raj.test.domain.entity.Entity
 
 /**
- * Created by Dr.jacky on 10/19/2018.
+  * Created by raju  on 10/19/2018.
  */
 class AlbumDiffCallback : DiffUtil.ItemCallback<Entity.Album>() {
 

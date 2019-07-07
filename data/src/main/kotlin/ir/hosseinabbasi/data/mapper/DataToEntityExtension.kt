@@ -4,7 +4,7 @@ import com.android.raj.test.data.db.album.AlbumData
 import com.android.raj.test.domain.entity.Entity
 
 /**
- * Created by Dr.jacky on 10/10/2018.
+  * Created by raju  on 10/10/2018.
  */
 /**
  * Extension class to map album data to album entity

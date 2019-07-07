@@ -5,7 +5,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.schedulers.Schedulers
 
 /**
- * Created by Dr.jacky on 10/6/2018.
+  * Created by raju  on 10/6/2018.
  */
 //Observable
 fun <T> Observable<T>.applyIoScheduler() = applyScheduler(Schedulers.io())

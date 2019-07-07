@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 
 /**
- * Created by Dr.jacky on 9/12/2018.
+  * Created by raju  on 9/12/2018.
  */
 fun AppCompatActivity.replaceFragment(savedInstanceState: Bundle?, @IdRes where: Int,
                                       fragment: Fragment, tag: String) {

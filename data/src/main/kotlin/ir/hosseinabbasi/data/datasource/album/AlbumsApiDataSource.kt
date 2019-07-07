@@ -7,7 +7,7 @@ import com.android.raj.test.domain.common.ResultState
 import com.android.raj.test.domain.entity.Entity
 
 /**
- * Created by Dr.jacky on 9/24/2018.
+  * Created by raju  on 9/24/2018.
  */
 @SuppressLint("CheckResult")
 fun getAlbums(

@@ -21,7 +21,7 @@ import kotlinx.android.synthetic.main.fragment_home.*
 import javax.inject.Inject
 
 /**
- * Created by Dr.jacky on 9/7/2018.
+  * Created by raju  on 9/7/2018.
  */
 class HomeFragment : BaseFragment(), SwipeRefreshLayout.OnRefreshListener/*, Paginate.Callbacks*/ {
 

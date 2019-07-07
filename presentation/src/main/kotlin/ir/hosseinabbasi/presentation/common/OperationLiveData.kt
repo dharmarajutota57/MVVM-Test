@@ -1,7 +1,7 @@
 package com.android.raj.test.presentation.common
 
 /**
- * Created by Dr.jacky on 10/20/2018.
+  * Created by raju  on 10/20/2018.
  */
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.MutableLiveData

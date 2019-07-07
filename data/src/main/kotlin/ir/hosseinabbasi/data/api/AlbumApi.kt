@@ -7,7 +7,7 @@ import retrofit2.http.Path
 import retrofit2.http.Query
 
 /**
- * Created by Dr.jacky on 9/19/2018.
+  * Created by raju  on 9/19/2018.
  */
 /**
  * Albums api

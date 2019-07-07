@@ -14,7 +14,7 @@ import com.android.raj.test.presentation.R
 import com.android.raj.test.presentation.databinding.ItemAlbumBinding
 
 /**
- * Created by Dr.jacky on 10/18/2018.
+  * Created by raju  on 10/18/2018.
  */
 class AlbumListAdapter : PagedListAdapter<Entity.Album, AlbumListAdapter.DataHolder>(AlbumDiffCallback()) {
 

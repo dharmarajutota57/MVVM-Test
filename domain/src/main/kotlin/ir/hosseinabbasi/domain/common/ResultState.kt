@@ -1,7 +1,7 @@
 package com.android.raj.test.domain.common
 
 /**
- * Created by Dr.jacky on 10/9/2018.
+  * Created by raju  on 10/9/2018.
  */
 /**
  * A wrapper for database and network states.

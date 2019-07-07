@@ -5,7 +5,7 @@ import androidx.navigation.findNavController
 import dagger.android.support.DaggerAppCompatActivity
 
 /**
- * Created by Dr.jacky on 9/7/2018.
+  * Created by raju  on 9/7/2018.
  */
 abstract class BaseActivity : DaggerAppCompatActivity() {
 

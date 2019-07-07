@@ -13,7 +13,7 @@ import com.android.raj.test.presentation.ui.base.BaseViewModel
 import javax.inject.Inject
 
 /**
- * Created by Dr.jacky on 9/21/2018.
+  * Created by raju  on 9/21/2018.
  */
 class HomeViewModel @Inject constructor(private val getAlbumsUseCase: GetAlbumsUseCase) : BaseViewModel() {
 

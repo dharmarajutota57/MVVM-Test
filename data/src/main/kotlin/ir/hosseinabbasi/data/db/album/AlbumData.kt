@@ -5,7 +5,7 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 
 /**
- * Created by Dr.jacky on 10/12/2018.
+  * Created by raju  on 10/12/2018.
  */
 /**
  * Album data class

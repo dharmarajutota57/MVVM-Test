@@ -8,7 +8,7 @@ import com.android.raj.test.presentation.R
 import com.android.raj.test.presentation.ui.base.BaseFragment
 
 /**
- * Created by Dr.jacky on 9/7/2018.
+  * Created by raju  on 9/7/2018.
  */
 class AlbumDetailFragment : BaseFragment() {
 

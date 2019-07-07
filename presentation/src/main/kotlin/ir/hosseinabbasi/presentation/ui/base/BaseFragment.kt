@@ -7,7 +7,7 @@ import dagger.android.support.DaggerFragment
 import com.android.raj.test.presentation.R
 
 /**
- * Created by Dr.jacky on 9/7/2018.
+  * Created by raju  on 9/7/2018.
  */
 abstract class BaseFragment : DaggerFragment() {
 
